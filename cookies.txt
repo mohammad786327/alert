@@ -1,0 +1,52 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.tradovate.com	TRUE	/	FALSE	1806075396	hubspotutk	53081daa3feba544385b1dea73ffbfd7
+.tradovate.com	TRUE	/	FALSE	0	__hssrc	1
+.tradovate.com	TRUE	/	FALSE	1797860822	_gcl_au	1.1.1418787222.1790084822
+.tradovate.com	TRUE	/	TRUE	1823780823	_twpid	tw.1790084822614.609545692637287545
+.tradovate.com	TRUE	/	FALSE	1798299414	_fbp	fb.1.1790084823030.365244822733086889
+trader.tradovate.com	FALSE	/	FALSE	1821620862	tradovate-trader-gdpr-cookies-accepted	true
+trader.tradovate.com	FALSE	/	FALSE	1824644875	kLh2jeKJ67G	1bfd1cf7-07d1-9b5a-a62d-9c2ab8f68a27
+.trader.tradovate.com	TRUE	/	TRUE	1822059546	__stripe_mid	f20ce958-6dee-435d-8352-3b946324d17ab360d7
+.tradovate.com	TRUE	/	TRUE	1824744219	wm-cseu-id	%2262e44cd6-2fc6-49ba-9ce7-576adb5823ea%22
+.tradovate.com	TRUE	/	FALSE	1798299542	theme_cookie	dark
+.tradovate.com	TRUE	/	FALSE	1790609796	_gid	GA1.2.1136274000.1790421664
+.tradovate.com	TRUE	/	FALSE	1824585789	_cs_c	0
+.tradovate.com	TRUE	/	TRUE	1825083576	wm-ueug	{%22name%22:%22mohdawais1%22}
+.tradovate.com	TRUE	/	TRUE	1790609977	wm-wmv	{%22name%22:%22mohdawais1%22}
+.tradovate.com	TRUE	/	TRUE	1790609939	wm-ds-lfb	%22{}%22
+.tradovate.com	TRUE	/	TRUE	1790535599	wm-ueuT	{%22name%22:%22mohdawais1%22}
+.tradovate.com	TRUE	/	TRUE	1790525764	wm-po-p	1
+.tradovate.com	TRUE	/	TRUE	1790525764	wm-po-q	{%221%22:1790522164927}
+.tradovate.com	TRUE	/	TRUE	1790525765	wm-po-r	1
+.tradovate.com	TRUE	/	TRUE	1790525345	_hp2_ses_props.643941305	%7B%22r%22%3A%22https%3A%2F%2Ftrader.tradovate.com%2F%22%2C%22ts%22%3A1790523098111%2C%22d%22%3A%22trader.tradovate.com%22%2C%22h%22%3A%22%2F%22%7D
+.tradovate.com	TRUE	/	TRUE	1790524912	__cf_bm	fv3KugD7wiWlDYo7yNSiEtbBqf4qtccwPG84l3pVWvY-1790523112.5508583-1.0.1.1-yq08hyoyB1WCO5iAnPNMF40EC4lCiErvqXk3aHHVnUkP7PjDn6K1XTI1QzaSzMxg1gF50xSTXZhKgIMljN8F_3MQS.VfYL6z9etO2UIa.wV90kZzgof.SpRFU4jwkfys
+.tradovate.com	TRUE	/	FALSE	1806075396	__hstc	155022887.53081daa3feba544385b1dea73ffbfd7.1790084820701.1790511956151.1790523113343.9
+.tradovate.com	TRUE	/	TRUE	1790524139	wm-ds-lbp	%22[]%22
+.tradovate.com	TRUE	/	TRUE	1790524139	wm-ds-b	%22[]%22
+.tradovate.com	TRUE	/	TRUE	1790524176	wm-ds-s	%22[]%22
+.tradovate.com	TRUE	/	TRUE	1790524139	wm-ds-hb	%22[]%22
+.tradovate.com	TRUE	/	TRUE	1790524139	wm-ds-lbb	%22{}%22
+.trader.tradovate.com	TRUE	/	TRUE	1790525346	__stripe_sid	fa513cf8-a731-40b9-b5f5-19080dfc78e26aa907
+.tradovate.com	TRUE	/	TRUE	1790524176	wm-prsst	{%22tId%22:-1%2C%22stt%22:0%2C%22step%22:-1%2C%22spn%22:0%2C%22plgd%22:%22%22%2C%22pint%22:null%2C%22splt%22:[]%2C%22sph%22:[]%2C%22igd%22:null}
+.tradovate.com	TRUE	/	TRUE	1790524176	wm-smtp-init	{%22type%22:6}
+.tradovate.com	TRUE	/	FALSE	1825083396	_ga	GA1.2.1294696139.1790084822
+.tradovate.com	TRUE	/	FALSE	1790525196	__hssc	155022887.2.1790523113343
+.tradovate.com	TRUE	/	FALSE	1790609797	_uetsid	5cefce80b99c11f194504dee8b93594e
+.tradovate.com	TRUE	/	FALSE	1824219397	_uetvid	17788390b68c11f1ab27b32390ad4d52
+trader.tradovate.com	FALSE	/	FALSE	1806075397	g_state	{"i_l":0,"i_ll":1790523397192,"i_b":"bGzwLBLEc6xWZCjUlp2i6WRCppPXVf8aEvSrEf3273Q","i_e":{"enable_itp_optimization":24},"i_et":1790523397192}
+.tradovate.com	TRUE	/	TRUE	1798299403	_rdt_uuid	1790084822725.4c18c96d-a94a-4045-8da5-c32f886fab80
+.tradovate.com	TRUE	/	TRUE	1824219415	_twsid	1790523116956-129613572.14.1790523414940
+.tradovate.com	TRUE	/	FALSE	1825083415	_ga_ZR0S7L7265	GS2.1.s1790523114$o11$g1$t1790523415$j40$l0$h0
+.tradovate.com	TRUE	/	FALSE	1825083415	_ga_QJMZ50LECE	GS2.1.s1790523115$o11$g1$t1790523415$j40$l0$h0
+.tradovate.com	TRUE	/	TRUE	1790527040	wm-wa	1
+.tradovate.com	TRUE	/	TRUE	1790524139	wm-ds-lb	%22{}%22
+.tradovate.com	TRUE	/	TRUE	1824601145	_hp2_id.643941305	%7B%22userId%22%3A%228183253585229885%22%2C%22pageviewId%22%3A%225981577131967556%22%2C%22sessionId%22%3A%225591261404609587%22%2C%22identity%22%3A%229345199%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%2C%22oldIdentity%22%3Anull%7D
+.tradovate.com	TRUE	/	FALSE	1824585789	_cs_id	ab9095c3-633e-a6da-e2aa-0391579b6c8a.1790421789.6.1790523547.1790523115.1746466244.1824585789373.1.x
+.trader.tradovate.com	TRUE	/	TRUE	1790525355	__cf_bm	2GWQgWYX8zmTEV_BIKnIeU9CKMclQ8ddZlfTB3bQJVE-1790523555.822911-1.0.1.1-AgqpHxQBuEsSarUPurVy.cQqks48vT_NvIPY0HkkfySk3P5h3H1p3mQwGDPRfnl9qj8LOtdg3MZm5iQBHsjtcQS_0Cp4kMt1p7ze7yBXu7Fuh3oG.fZCRH25UaPZ5sx2
+.tradovate.com	TRUE	/	TRUE	1825083578	wm-ag-d	{%22st%22:1790523577701%2C%22sc%22:2%2C%22v%22:1%2C%22et%22:1790421819561%2C%22u%22:0}
+.tradovate.com	TRUE	/	TRUE	1791128761	wm-session-per-user	{%22{%5C%22name%5C%22:%5C%22awais3227443%5C%22}%22:{%22euId%22:%22{%5C%22name%5C%22:%5C%22awais3227443%5C%22}%22%2C%22sId%22:%22dc4183c5-7421-44f5-8fc1-d39db4022bfc%22%2C%22startTime%22:1790184212872%2C%22lastActivityTime%22:1790184285376}%2C%22{%5C%22name%5C%22:%5C%22mohdawais1%5C%22}%22:{%22euId%22:%22{%5C%22name%5C%22:%5C%22mohdawais1%5C%22}%22%2C%22sId%22:%229051ae51-5438-475c-8c00-43b611d630d5%22%2C%22startTime%22:1790516026537%2C%22lastActivityTime%22:1790523961537}}
+.tradovate.com	TRUE	/	TRUE	1791128761	wm-hb	{%22sendBaseTime%22:1790523617832%2C%22pendingEvent%22:{%22time%22:1790523961538%2C%22type%22:%22activity%22%2C%22sId%22:%229051ae51-5438-475c-8c00-43b611d630d5%22%2C%22wm%22:{%22uId%22:%221366bb28a5cd4387bb7dfab41b140ef6%22%2C%22euId%22:{%22name%22:%22mohdawais1%22}%2C%22env%22:0%2C%22cseuId%22:%2262e44cd6-2fc6-49ba-9ce7-576adb5823ea%22%2C%22euIdSource%22:%22Identifier%22}%2C%22version%22:{%22lib%22:%2220231204-143021-b24205d3%22%2C%22pe%22:%225.0.2%22}}}
+.tradovate.com	TRUE	/	FALSE	1790525827	_cs_s	8.0.U.9.1790525827083
